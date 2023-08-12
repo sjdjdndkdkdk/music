@@ -20,4 +20,18 @@ Vue 音乐播放器，使用网易云音乐接口
 5.npm run serve 启动项目<br>
 
 # 项目截图
-![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img/%E6%90%9C%E7%B4%A2%E5%92%8C%E8%AE%B0%E5%BD%95.PNG)
+# 主页
+![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img2/index.PNG)<br>
+# 歌单详情
+![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img2/detail.PNG)<br>
+# 歌词
+![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img2/lyric.PNG)<br>
+# 登录
+![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img2/login.PNG)<br>
+# 注册
+![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img2/register.PNG)<br>
+# 歌单
+![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img2/music.PNG)<br>
+# 搜索
+![Image](https://github.com/sjdjdndkdkdk/music_test/blob/main/img2/search.PNG)<br>
+# 若图片不显示可以下载img2查看
