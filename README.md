@@ -14,7 +14,7 @@ Vue 音乐播放器，使用网易云音乐接口
 
 # 使用方法
 1.下载当前项目<br>
-2.安装需要使用的库<br>
+2.安装需要使用的库（node）<br>
 3.在src下的server文件夹使用cmd启动输入node app.js启动服务器（登录注册功能需要使用数据库）<br>
 4.启动网络上下载的网易云接口（NeteaseCloudMusicApi-master）<br>
 5.npm run serve 启动项目<br>
